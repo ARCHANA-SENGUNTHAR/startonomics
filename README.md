@@ -144,8 +144,3 @@ The app will be available at:
 
 ✨ *Startonomics — Where Startup Stories Meet Economic Insight.*
 
-
----
-
-⭐ Show Your Support
-If you like Startonomics, please give us a ⭐ on GitHub and help spread the word!
