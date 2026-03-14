@@ -108,14 +108,6 @@ The app will be available at:
 
 ---
 
-## 👩‍💻 Team
-
-* **Deepika Selvaraj**: [studiesfor456@gmail.com](mailto:studiesfor456@gmail.com)
-
-* **Archana Gurusamy**: [archanagurusamy648@gmail.com](mailto:archanagurusamy648@gmail.com)
-
----
-
 ## 🏆 Accomplishments
 
 * Designed an engaging **data-storytelling platform**
@@ -144,3 +136,10 @@ The app will be available at:
 
 ✨ *Startonomics — Where Startup Stories Meet Economic Insight.*
 
+---
+
+## 👩‍💻 Team
+
+* **Deepika Selvaraj**: [Email](mailto:studiesfor456@gmail.com)
+
+* **Archana Gurusamy**: [Email](mailto:archanagurusamy648@gmail.com)
